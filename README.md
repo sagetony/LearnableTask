@@ -10,7 +10,7 @@
 - [0-9]{4} represent that the next four letters must be between 0 - 9
 - [\s]? represent that the whitespace character is optional because of the ? sign
 - [0-9]{4} represent that the next four letters must be between 0 - 9
-‘$’ represents the end of the pattern.
+- $ represents the end of the pattern.
 
 ## visaValidate Pattern test for values based on standard of the Visa Card 
 - ^  represent the start of a pattern.
@@ -22,7 +22,7 @@
 - [0-9]{4} represent that the next four letters must be between 0 - 9
 - [\s]? represent that the whitespace character is optional because of the ? sign
 - [0-9]{4} represent that the next four letters must be between 0 - 9
-‘$’ represents the end of the pattern.
+- $ represents the end of the pattern.
 
 ## expressValidate Pattern test for values based on standard of the American Express Card 
 - ^  represent the start of a pattern.
@@ -34,4 +34,4 @@
 - [0-9]{4} represent that the next four letters must be between 0 - 9
 - [\s]? represent that the whitespace character is optional because of the ? sign
 - [0-9]{3} represent that the next three letters must be between 0 - 9
-‘$’ represents the end of the pattern.
+- $ represents the end of the pattern.
